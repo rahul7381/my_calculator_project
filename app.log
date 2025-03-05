@@ -1,0 +1,6 @@
+2025-03-04 18:47:00,300 - INFO - Calculator application started.
+2025-03-04 18:47:00,300 - WARNING - Plugin package 'plugins' not found.
+2025-03-04 18:47:08,314 - INFO - Executed AddCommand with args ('10', '5'), result: 15.0
+2025-03-04 18:47:17,916 - INFO - Executed MultiplyCommand with args ('3', '4'), result: 12.0
+2025-03-04 18:47:25,745 - INFO - Executed DivideCommand with args ('10', '2'), result: 5.0
+2025-03-04 18:47:32,271 - INFO - User exited the calculator.
